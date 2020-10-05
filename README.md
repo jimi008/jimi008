@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### 🔭 I’m Full Stack Developer. 
+⚡ I love to work on problems that I think I cannot solve. 💬 Need technical services to solve any problem, Reach me at me@jamilahmed.net
 <!--
 **jimi008/jimi008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
