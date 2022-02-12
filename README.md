@@ -77,7 +77,6 @@ const vedant = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimi008&layout=compact)](https://github.com/jimi008/jimi008)
 
-![Thanks](https://camo.githubusercontent.com/6a8fe035162f8ad479f87cc0c21317fe6e49f172ead23ceaa2c9b3392e17a5c1/68747470733a2f2f692e6962622e636f2f304d5a7a4a32642f646f776e6c6f61642e706e67)
 <!--
 **jimi008/jimi008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
