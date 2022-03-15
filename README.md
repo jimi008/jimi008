@@ -2,7 +2,7 @@
 
 ### Hi there 👋 I'm Jamil. Nice to meet you.
 
-#### 🔭 Full Stack Developer | WordPress fanatic | Open-Source supporter | E-Commerce trainer
+#### 🔭 Full Stack Developer | WordPress Evangelist | Open-Source fanatic | E-Commerce developer
 
 ## 🚀 About Me
 💻 Software Engineer @ Weidermedia.com 📢 Contributor @ WordPress 💡Founder @ Readsworth.com 💡Co-founder @ Prepareddevelopment.com
@@ -30,8 +30,7 @@
 
 
 ## 🛠 Skill set
-- General Web development / Web design: html5, css3 & scss, jquery & coffeescript, Ajax
-- Ruby on Rails framework frontend development
+- Web development / Web design: html5, css3 & scss, jquery & coffeescript, Ajax
 - PHP / MySQL development, specialization in Wordpress & Drupal CMS (advanced customization & plugins devpt.)
 - Mobile devices oriented websites optimization & adaptation
 - Specialization in search engine optimization and paid indexing Google/Bing/Yahoo
