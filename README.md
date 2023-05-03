@@ -5,21 +5,21 @@
 #### 💻 Full-Stack Engineer 💡 DevOps Engineer 📢 WordPress Evangelist | Open-Source fanatic | E-Commerce developer
 
 ## 🚀 About Me
-A Full-Stack Web Developer with 8+ years of experience with agile development and DevOps tools such as Kubernetes, Terraform, Helm, Jenkins, UNIX/Linux, VM Ware, AWS Cloud, Python, and Bash Scripting. I am a passionate individual with several certifications in DevOps and related fields. I have experience in development, implementation, deployment, versioning, database management, server configuration, content management, and DevOps methodologies. 
+A Full-Stack Web Developer with 8+ years of experience in agile development. Also passionate about DevOps tools such as Kubernetes, Terraform, Helm, Jenkins, UNIX/Linux, VM Ware, AWS Cloud, Python, and Bash Scripting. I have experience in development, implementation, deployment, versioning, database management, server configuration, content management, and DevOps methodologies. 
 
 DevOps learning path has provided me with a comprehensive understanding of the principles of DevOps and given me the skills and knowledge to collaborate with cross-functional teams effectively, implement continuous integration and delivery, and automate infrastructure deployment and management.
 
-Courses "Cloud Computing Basics (Cloud 101)" and "Introduction to Kubernetes" have equipped me with the skills to design and implement cloud-based solutions and orchestrate containerized applications using Kubernetes. I have a deep understanding of data analysis and visualization techniques. 
+As a DevOps practitioner, I migrated Explore California's static website from AWS virtual machines to Kubernetes containers. Utilizing my expertise in containerization, I containerized the website and used Helm to create a deployment chart, successfully deploying it onto a local Kubernetes cluster provisioned with Kind. I then deployed the site to AWS Elastic Kubernetes Service and AWS Elastic Container Registry, enabling Explore California to scale its website confidently. This experience highlights my ability to deliver reliable cloud-native solutions with Kubernetes. 
 
-The "Cloud DevOps Engineer" program has provided me with hands-on experience in building and deploying scalable, highly available, and fault-tolerant applications on the cloud using AWS services. I have also gained experience configuring and managing IaC using Terraform, implementing CI and CD pipelines using Jenkins, and monitoring and troubleshooting applications using various tools and techniques.
+As a DevOps practitioner at a fictitious travel booking company, I have streamlined the application development process by implementing DevOps principles. First, I containerized the website with Docker and Docker Compose. Next, I wrote unit and integration tests using RSpec, Capybara, and Selenium. Then, I deployed the website to the cloud using Terraform. Finally, I automated the build, test, and deployment process with Jenkins.
 
-My focused skills and technologies include Python, JavaScript, HTML5, CSS3 (Front-end, Block Element Modifier BEM, Object Oriented CSS OOCSS) with an advanced workflow that includes Less, Sass (Syntactically Awesome Stylesheets), jQuery (cross-platform JavaScript library), GIT and SVN based versioning, PHP and React (for building scalable user interfaces in applications).
+My focused skills and technologies include Python, JavaScript, HTML5, and CSS3, with an advanced workflow that includes Less, Sass, jQuery, GIT, SVN-based versioning,  PHP, and React (for building scalable user interfaces in applications).
 
-In my current role as a Full Stack Engineer at Build.to, I own the build of stable and maintainable codebases using WordPress. I work autonomously and collaboratively across disciplines with Product Managers and Developers. I am responsible for designing and implementing new features and functionality, ensuring high performance and availability, managing all technical aspects of the CMS, and troubleshooting technical issues with the website.
+At Build.to, I own the build of maintainable codebases using WordPress. I am responsible for designing and implementing new features and functionality, ensuring high performance and availability, managing all technical aspects of the CMS, and troubleshooting technical issues.
 
 My certifications demonstrate my passion for technology and my commitment to learning and development. I am confident in leveraging my skills and knowledge to contribute to any organization that values innovation, collaboration, and continuous improvement.
 
-#cloudinfrastructure #cloudcostoptimization #AWS #Jenkins #Terraform
+#cloudinfrastructure #cloudcostoptimization #AWS #Jenkins #Terraform #Kubernetes #DevOps #CloudNative
 
 ⚡ I love to work on projects solving the real life problems with the help of technology. 💬 Need help? I will happy to provide my services, Reach me at me@jamilahmed.net
 
