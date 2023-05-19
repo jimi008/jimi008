@@ -15,7 +15,7 @@ DevOps learning path has provided me with a comprehensive understanding of the p
 
 As a DevOps practitioner, I migrated Explore California's static website from AWS virtual machines to Kubernetes containers. Utilizing my expertise in containerization, I containerized the website and used Helm to create a deployment chart, successfully deploying it onto a local Kubernetes cluster provisioned with Kind. I then deployed the site to AWS Elastic Kubernetes Service and AWS Elastic Container Registry, enabling Explore California to scale its website confidently. This experience highlights my ability to deliver reliable cloud-native solutions with Kubernetes. 
 
-As a DevOps practitioner at a fictitious travel booking company, I have streamlined the application development process by implementing DevOps principles. First, I containerized the website with Docker and Docker Compose. Next, I wrote unit and integration tests using RSpec, Capybara, and Selenium. Then, I deployed the website to the cloud using Terraform. Finally, I automated the build, test, and deployment process with Jenkins.
+As a DevOps practitioner at a travel booking company, I have streamlined the application development process by implementing DevOps principles. First, I containerized the website with Docker and Docker Compose. Next, I wrote unit and integration tests using RSpec, Capybara, and Selenium. Then, I deployed the website to the cloud using Terraform. Finally, I automated the build, test, and deployment process with Jenkins.
 
 My focused skills and technologies include Python, JavaScript, HTML5, and CSS3, with an advanced workflow that includes Less, Sass, jQuery, GIT, SVN-based versioning,  PHP, and React (for building scalable user interfaces in applications).
 
