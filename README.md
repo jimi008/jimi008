@@ -1,4 +1,4 @@
-<p align="center"><a href="https://github.com/jimi008/jimi008"><img style="text-align:center;" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width=200></a>
+<p align="center"><a href="https://github.com/jimi008/jimi008"><img style="text-align:center;" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/specter-desktop.png" width=200></a>
 </p>
 
 
@@ -6,7 +6,7 @@
 
 ### Hi there 👋 I'm Jamil Ahmed. Nice to meet you.
 
-#### 💻 Full-Stack Engineer 💡 DevOps Engineer 📢 WordPress Evangelist | Open-Source fanatic | E-Commerce developer
+#### 💻 Full-Stack Engineer 💡 Cloud practitioner 📢 WordPress Evangelist | Open-Source fanatic | E-Commerce Specialist
 
 ## 🚀 About Me
 A Full-Stack Web Developer with 8+ years of experience in agile development. Also passionate about DevOps tools such as Kubernetes, Terraform, Helm, Jenkins, UNIX/Linux, VM Ware, AWS Cloud, Python, and Bash Scripting. I have experience in development, implementation, deployment, versioning, database management, server configuration, content management, and DevOps methodologies. 
