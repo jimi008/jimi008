@@ -6,26 +6,21 @@
 
 ### Hi there 👋 I'm Jamil Ahmed. Nice to meet you.
 
-#### 💻 Full-Stack Engineer 💡 Cloud practitioner 📢 WordPress Evangelist | Open-Source fanatic | E-Commerce Specialist
+#### ♾️ DevOps Engineer 💻 Automation Expert ☁ AWS Solutions Architect
 
 ## 🚀 About Me
-A Full-Stack Web Developer with 8+ years of experience in agile development. Also passionate about DevOps tools such as Kubernetes, Terraform, Helm, Jenkins, UNIX/Linux, VM Ware, AWS Cloud, Python, and Bash Scripting. I have experience in development, implementation, deployment, versioning, database management, server configuration, content management, and DevOps methodologies. 
+DevOps Engineer, passionate about DevOps culture & tools like Docker, Kubernetes, Terraform, VPC, CI/CD, and AWS Cloud services (EC2, S3, Lambda, ECS, EKS, ELB), skilled in development, implementation, deployment, database management, server configuration, and automation. Skilled in Python, PHP, Bash, Shell Scripting, WordPress, Gutenberg Blocks, WooCommerce, React.js, JavaScript, Node.js, Git, Github, HTML5, and CSS3 with an advanced workflow. Successfully migrated websites to Kubernetes containers and streamlined application development processes using DevOps principles. 
 
-Through the DevOps learning path, I gained a thorough understanding of DevOps principles and acquired the necessary skills to collaborate effectively with cross-functional teams. I can now implement continuous integration and delivery, as well as automate infrastructure deployment and management.
+DevOps | Ansible | Jenkins | AWS | GCP | Docker | Docker Swarm | Python | REST | Kubernetes | Terraform
 
-In my role as a DevOps practitioner, I successfully migrated Explore California's static website from AWS virtual machines to Kubernetes containers. I containerized the website and used Helm to create a deployment chart, which allowed me to deploy the site onto a local Kubernetes cluster provisioned with Kind. I then deployed the website to AWS Elastic Kubernetes Service and AWS Elastic Container Registry, enabling Explore California to scale their website with confidence. This experience demonstrates my ability to provide reliable cloud-native solutions using Kubernetes.
+From previous projects and job roles over the years, I have also cultivated a focus on DevOps and AWS Cloud services and experience that ensures all my projects contribute to a secure and accessible internet for more people.
 
-At a travel booking company, I streamlined the application development process by implementing DevOps principles. I containerized the website using Docker and Docker Compose and wrote unit and integration tests using RSpec, Capybara, and Selenium. I deployed the website to the cloud with Terraform and automated the build, test, and deployment process with Jenkins.
+Through the DevOps learning path, I thoroughly understood DevOps principles and acquired the necessary skills to collaborate effectively with cross-functional teams. I can now implement continuous integration and delivery and automate infrastructure deployment and management.
 
-My focused skills and technologies include Python, PHP, React (for building scalable user interfaces in applications), JavaScript, HTML5, and CSS3, with an advanced workflow that includes Less, Sass, jQuery, GIT, and SVN-based versioning.
-
-At Build.to, I own the build of maintainable codebases using WordPress. I am responsible for designing and implementing new features and functionality, ensuring high performance and availability, managing all technical aspects of the CMS, and troubleshooting technical issues.
-
-My certifications demonstrate my passion for technology and my commitment to learning and development. I am confident in leveraging my skills and knowledge to contribute to any organization that values innovation, collaboration, and continuous improvement.
 
 #cloudinfrastructure #cloudcostoptimization #AWS #Jenkins #Terraform #Kubernetes #DevOps #CloudNative
 
-⚡ I love to work on projects solving the real life problems with the help of technology. 💬 Need help? I will happy to provide my services, Reach me at me@jamilahmed.net
+⚡ I love to work on projects solving real-life problems with the help of technology. 💬 Need help? I will be happy to provide my services. Reach me at me@jamilahmed.net
 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -98,9 +93,9 @@ const vedant = {
 ```
 ## Always eager to learn more
 
- - 🌱 I’m currently learning DevOps and its Tools
+ - 🌱 I’m currently exploring DevOps and its Tools
  - 👯 I’m passionate about DevOps, Cloud computing & open source projects
- - 🥅 2023 Goals: Contribute more to Open Source projects and learn as much as I can
+ - 🥅 2024 Goals: Contribute more to Open Source projects and learn as much as I can
  - ⚡ Fun fact: I love to play games
  - 💬 Reach me at me@jamilahmed.net
 
