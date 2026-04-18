@@ -1,46 +1,65 @@
-<p align="center"><a href="https://github.com/jimi008/jimi008"><img style="text-align:center;" src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/png/specter-desktop.png" width=200></a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF41&center=true&vCenter=true&width=800&lines=JAMIL+AHMED;SENIOR+CYBERSECURITY+CONSULTANT;GRC+|+OT/ICS+SPECIALIST;OPERATIONAL+RESILIENCE+ARCHITECT" alt="Typing SVG" />
 </p>
 
-### Hi there 👋 I'm Jamil Ahmed. Nice to meet you.
+<p align="center">
+  <a href="https://jamilahmed.net"><img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=for-the-badge&logo=statuspage&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jimi008/"><img src="https://img.shields.io/badge/IDENTITY-VERIFIED-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/EXPERIENCE-12+_YEARS-blueviolet?style=for-the-badge&logo=expertsexchange&logoColor=white" />
+</p>
 
-#### 🛡️ Senior Cybersecurity Consultant | GRC & OT/IT Security Specialist | CISA | ISO 27001 LA/LI
+---
 
-## 🚀 About Me
-I am a Senior Cybersecurity Consultant with over 12 years of experience in designing and auditing enterprise security programs. I specialize in bridging the gap between technical controls and business objectives, with deep expertise in **Governance, Risk & Compliance (GRC)**, **OT/IT Security (ISA/IEC 62443)**, and **Cloud Security**. My background in DevSecOps allows me to integrate security seamlessly into the SDLC while ensuring compliance with global and regional frameworks like NIST, ISO 27001, NCA, and SAMA.
-
-- 🔒 **Expertise:** GRC, VAPT, OT/ICS Security, Risk Management, and Compliance Auditing.
-- ☁️ **Cloud:** AWS Solutions Architect, Cloud Security Hardening, and Infrastructure as Code.
-- 🏗️ **DevSecOps:** Jenkins, GitHub Actions, Terraform, and Kubernetes Security.
-
-## 🛠️ Technical Stack & Skills
-- **Security & GRC:** ISO 27001, NIST CSF, ISA/IEC 62443, CISA, ITGC Testing, IAM/RBAC.
-- **Tools:** Python (Pandas, Scikit-learn), Terraform, Ansible, Jenkins, Docker, Kubernetes.
-- **Industries:** Oil & Gas (Aramco), Financial Services (SAMA/SACS), Critical Infrastructure.
-
-## :writing_hand: A little more about me...
-```javascript
-const jamil = {
-    pronouns: "He" | "Him",
-    code: ["Python", "JavaScript", "PHP", "Shell Script"],
-    askMeAbout: ["Cybersecurity", "GRC", "OT/ICS Security", "Cloud Security"],
-    technologies: {
-        security: ["VAPT", "Risk Assessment", "Compliance Audit", "ISMS/CSMS"],
-        devOps: ["AWS", "Terraform", "Kubernetes", "CI/CD Security"],
-        data: ["Python for Security Analytics", "Jupyter Notebooks"]
-    },
-    currentFocus: "OT/ICS Governance & Industrial Digitalization Security"
-};
+### 📂 SYSTEM_MANIFEST.sh
+```zsh
+> INITIALIZING_SECURE_CONNECTION...
+> SUBJECT: JAMIL AHMED
+> ROLE:    SENIOR CYBERSECURITY CONSULTANT (OT/IT)
+> MISSION: BRIDGING TECHNICAL VULNERABILITY WITH EXECUTIVE RISK DECISIONS
+> SECTORS: [ENERGY] [FINANCE] [CRITICAL_INFRASTRUCTURE]
 ```
 
-## Always eager to learn more
- - 🌱 I’m currently advancing my research in **OT/ICS Cybersecurity & Industrial IoT**.
- - 👯 I’m passionate about open-source security projects and mentoring high-performance teams.
- - 🥅 2026 Goals: Contribute to global security frameworks and enhance operational resilience for critical infrastructure.
- - ⚡ Fun fact: I enjoy translating complex technical findings into visual dashboards and heatmaps.
- - 💬 Reach me at me@jamilahmed.net
+### 🛡️ Strategic GRC & Compliance Layer
+*Expertise in designing risk-based security programs for sovereign and industrial assets.*
 
-## Github Stats
-[![Jamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=jimi008&count_private=true&show_icons=true&theme=jolly)](https://github.com/jimi008/jimi008)
-[![Projects](https://github-readme-stats.vercel.app/api/pin/?username=jimi008&repo=Address-Book-Follow-up-Table)](https://github.com/jimi008/Address-Book-Follow-up-Table) 
-[![Projects](https://github-readme-stats.vercel.app/api/pin/?username=jimi008&repo=Animated-WordPress-Login)](https://github.com/jimi008/Animated-WordPress-Login)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jimi008&layout=compact)](https://github.com/jimi008/jimi008)
+- **Sovereign Frameworks:** `NCA (ECC/OTCC/CSCC)` • `SAMA CSF` • `PDPL (KSA/UAE)`
+- **Industrial Standards:** `ISA/IEC 62443` • `NIST SP 800-82` • `Aramco SACS/SAEP`
+- **Global Governance:** `ISO 27001:2022` • `NIST CSF 2.0` • `SOC 2` • `PCI DSS`
+
+### 🏗️ Infrastructure & Security Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,bash,linux,githubactions,mysql,mongodb" />
+  </a>
+</p>
+
+### 📈 Operational Readiness Matrix
+| Capability | Description | Core Deliverables |
+| :--- | :--- | :--- |
+| **OT/ICS Defense** | SCADA, PLC, and DCS security hardening. | Risk-based remediation roadmaps. |
+| **Vulnerability Mgmt** | VAPT (AppSec/Network) & Threat Modeling. | Executive heatmaps & dashboards. |
+| **Audit & Assurance** | ITGC Testing & IAM/RBAC Governance. | Audit-ready compliance documentation. |
+| **Security Analytics** | Python-driven risk modeling (Pandas/NumPy). | Automated risk treatment plans. |
+
+### 🌍 Trusted Industry Impact
+`Saudi Aramco` • `SASREF` • `Samsung E&A` • `STC (Sirar)` • `PDO Oman` • `Haramain Railway`
+
+---
+
+### 📊 Tactical Data Visualization
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jimi008&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimi008&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+### 📡 Secure Uplink & Connectivity
+<p align="center">
+  <a href="mailto:me@jamilahmed.net"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jamilahmed.net"><img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jimi008/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=50&section=footer&text=SECURE%20ENDPOINT%20AUTHORIZED%20BY%20JAMIL%20AHMED&fontSize=20&fontColor=8b949e" width="100%" />
+</p>
