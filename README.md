@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://jamilahmed.net"><img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=for-the-badge&logo=statuspage&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/jimi008/"><img src="https://img.shields.io/badge/IDENTITY-VERIFIED-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/jamilahmed-cs/"><img src="https://img.shields.io/badge/IDENTITY-VERIFIED-0078D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/EXPERIENCE-12+_YEARS-blueviolet?style=for-the-badge&logo=expertsexchange&logoColor=white" />
 </p>
 
