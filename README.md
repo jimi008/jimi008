@@ -61,5 +61,5 @@
 
 ---
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=0D1117&height=50&section=footer&text=SECURE%20ENDPOINT%20AUTHORIZED%20BY%20JAMIL%20AHMED&fontSize=20&fontColor=8b949e" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=8B949E&center=true&vCenter=true&width=800&lines=SECURE+ENDPOINT+AUTHORIZED+BY+JAMIL+AHMED" alt="Footer Typing SVG" />
 </p>
