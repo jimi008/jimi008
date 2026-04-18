@@ -28,7 +28,7 @@
 
 ### 🏗️ Infrastructure & Security Stack
 <p align="left">
-  <a href="https://skillicons.dev">
+  <a href="https://jamilahmed.net">
     <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,bash,linux,githubactions,mysql,mongodb" />
   </a>
 </p>
