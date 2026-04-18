@@ -14,7 +14,7 @@
 ```zsh
 > INITIALIZING_SECURE_CONNECTION...
 > SUBJECT: JAMIL AHMED
-> ROLE:    SENIOR CYBERSECURITY CONSULTANT (OT/IT)
+> ROLE:    Senior Cybersecurity Consultant (OT/IT)
 > MISSION: Empowering industrial continuity through integrated GRC, OT defense, and data-driven security analytics.
 > SECTORS: [ENERGY] [FINANCE] [CRITICAL_INFRASTRUCTURE]
 ```
