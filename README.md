@@ -29,7 +29,18 @@
 ### 🏗️ Infrastructure & Security Stack
 <p align="left">
   <a href="https://jamilahmed.net">
-    <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,python,bash,linux,githubactions,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=aws" alt="Amazon Web Services" title="Amazon Web Services" />
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" />
+    <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" />
+    <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" title="Terraform" />
+    <img src="https://skillicons.dev/icons?i=ansible" alt="Ansible" title="Ansible" />
+    <img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" title="Jenkins" />
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" />
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" title="Bash" />
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" title="Linux" />
+    <img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" title="GitHub Actions" />
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" />
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" />
   </a>
 </p>
 
@@ -37,19 +48,18 @@
 | Capability | Description | Core Deliverables |
 | :--- | :--- | :--- |
 | **OT/ICS Defense** | SCADA, PLC, and DCS security hardening. | Risk-based remediation roadmaps. |
-| **Vulnerability Mgmt** | VAPT (AppSec/Network) & Threat Modeling. | Executive heatmaps & dashboards. |
+| **Operational Resilience** | Business continuity and resilience planning for critical infrastructure. | Continuity strategies and recovery roadmaps. |
 | **Audit & Assurance** | ITGC Testing & IAM/RBAC Governance. | Audit-ready compliance documentation. |
-| **Security Analytics** | Python-driven risk modeling (Pandas/NumPy). | Automated risk treatment plans. |
+| **GRC & Compliance** | Risk-based governance aligned with NCA, SAMA, ISO 27001, and NIST frameworks. | Compliance roadmaps and audit-ready evidence. |
 
 ### 🌍 Trusted Industry Impact
 `Saudi Aramco` • `SASREF` • `Samsung E&A` • `STC (Sirar)` • `PDO Oman` • `Haramain Railway`
 
 ---
 
-### 📊 Tactical Data Visualization
+### 📊 GRC Framework Coverage Map
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimi008&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="GitHub Statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimi008&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="./assets/grc-framework-coverage.svg" width="100%" alt="GRC framework coverage map showing sovereign and regional, industrial and OT, and global assurance frameworks applied through governance, risk, control assurance, resilience, and audit." />
 </p>
 
 ### 📡 Secure Uplink & Connectivity

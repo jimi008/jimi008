@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title description">
+  <title id="title">GRC Framework Coverage Map</title>
+  <desc id="description">A coverage map of sovereign and regional, industrial and OT, and global assurance frameworks applied across governance, risk, compliance, and operational resilience.</desc>
+  <style>
+    .eyebrow { fill: #67e8a5; font: 700 14px 'Segoe UI', Arial, sans-serif; letter-spacing: 2.8px; }
+    .title { fill: #f2f7fb; font: 700 32px 'Segoe UI', Arial, sans-serif; letter-spacing: 1px; }
+    .subtitle { fill: #91a4b5; font: 400 16px 'Segoe UI', Arial, sans-serif; }
+    .card-title { fill: #f2f7fb; font: 700 16px 'Segoe UI', Arial, sans-serif; letter-spacing: 1px; }
+    .card-number { fill: #0b1117; font: 800 13px 'Segoe UI', Arial, sans-serif; }
+    .label { fill: #d8e3eb; font: 600 15px 'Segoe UI', Arial, sans-serif; }
+    .small-label { fill: #91a4b5; font: 600 12px 'Segoe UI', Arial, sans-serif; letter-spacing: 1.4px; }
+    .tag { fill: #d8e3eb; font: 700 12px 'Segoe UI', Arial, sans-serif; letter-spacing: 1px; }
+  </style>
+
+  <rect width="1200" height="640" fill="#0b1117" />
+  <rect x="1" y="1" width="1198" height="638" rx="12" fill="none" stroke="#263746" stroke-width="2" />
+
+  <text x="48" y="52" class="eyebrow">PROFILE SIGNAL / 03</text>
+  <text x="48" y="96" class="title">GRC FRAMEWORK COVERAGE</text>
+  <text x="48" y="126" class="subtitle">A cross-sector control lens for industrial security and operational resilience</text>
+  <line x1="48" y1="157" x2="1152" y2="157" stroke="#263746" />
+
+  <g>
+    <rect x="48" y="190" width="350" height="282" rx="8" fill="#111b24" stroke="#2b765b" stroke-width="2" />
+    <rect x="48" y="190" width="350" height="54" rx="8" fill="#1b3d34" />
+    <rect x="67" y="207" width="24" height="24" rx="12" fill="#67e8a5" />
+    <text x="79" y="224" text-anchor="middle" class="card-number">01</text>
+    <text x="106" y="223" class="card-title">SOVEREIGN + REGIONAL</text>
+    <rect x="67" y="263" width="312" height="47" rx="5" fill="#17242b" />
+    <text x="84" y="292" class="label">NCA ECC / OTCC / CSCC</text>
+    <rect x="67" y="321" width="312" height="47" rx="5" fill="#17242b" />
+    <text x="84" y="350" class="label">SAMA CSF</text>
+    <rect x="67" y="379" width="312" height="47" rx="5" fill="#17242b" />
+    <text x="84" y="408" class="label">PDPL (KSA / UAE)</text>
+    <text x="67" y="452" class="small-label">REGULATORY ALIGNMENT</text>
+  </g>
+
+  <g>
+    <rect x="425" y="190" width="350" height="282" rx="8" fill="#111b24" stroke="#3579a8" stroke-width="2" />
+    <rect x="425" y="190" width="350" height="54" rx="8" fill="#18354a" />
+    <rect x="444" y="207" width="24" height="24" rx="12" fill="#72c7ff" />
+    <text x="456" y="224" text-anchor="middle" class="card-number">02</text>
+    <text x="483" y="223" class="card-title">INDUSTRIAL + OT</text>
+    <rect x="444" y="263" width="312" height="47" rx="5" fill="#17242b" />
+    <text x="461" y="292" class="label">ISA / IEC 62443</text>
+    <rect x="444" y="321" width="312" height="47" rx="5" fill="#17242b" />
+    <text x="461" y="350" class="label">NIST SP 800-82</text>
+    <rect x="444" y="379" width="312" height="47" rx="5" fill="#17242b" />
+    <text x="461" y="408" class="label">Aramco SACS / SAEP</text>
+    <text x="444" y="452" class="small-label">OT DEFENSE ENGINEERING</text>
+  </g>
+
+  <g>
+    <rect x="802" y="190" width="350" height="282" rx="8" fill="#111b24" stroke="#a87835" stroke-width="2" />
+    <rect x="802" y="190" width="350" height="54" rx="8" fill="#49361f" />
+    <rect x="821" y="207" width="24" height="24" rx="12" fill="#f6c76e" />
+    <text x="833" y="224" text-anchor="middle" class="card-number">03</text>
+    <text x="860" y="223" class="card-title">GLOBAL ASSURANCE</text>
+    <rect x="821" y="263" width="312" height="47" rx="5" fill="#17242b" />
+    <text x="838" y="292" class="label">ISO 27001:2022</text>
+    <rect x="821" y="321" width="312" height="47" rx="5" fill="#17242b" />
+    <text x="838" y="350" class="label">NIST CSF 2.0</text>
+    <rect x="821" y="379" width="312" height="47" rx="5" fill="#17242b" />
+    <text x="838" y="408" class="label">SOC 2 / PCI DSS</text>
+    <text x="821" y="452" class="small-label">CONTROL ASSURANCE</text>
+  </g>
+
+  <rect x="48" y="510" width="1104" height="82" rx="8" fill="#101922" stroke="#263746" />
+  <text x="75" y="543" class="small-label">APPLIED THROUGH</text>
+  <rect x="75" y="558" width="161" height="24" rx="12" fill="#1b3d34" />
+  <text x="155" y="575" text-anchor="middle" class="tag">GOVERNANCE</text>
+  <rect x="251" y="558" width="130" height="24" rx="12" fill="#18354a" />
+  <text x="316" y="575" text-anchor="middle" class="tag">RISK</text>
+  <rect x="396" y="558" width="190" height="24" rx="12" fill="#49361f" />
+  <text x="491" y="575" text-anchor="middle" class="tag">CONTROL ASSURANCE</text>
+  <rect x="601" y="558" width="191" height="24" rx="12" fill="#1b3d34" />
+  <text x="696" y="575" text-anchor="middle" class="tag">RESILIENCE</text>
+  <rect x="807" y="558" width="142" height="24" rx="12" fill="#18354a" />
+  <text x="878" y="575" text-anchor="middle" class="tag">AUDIT</text>
+</svg>
